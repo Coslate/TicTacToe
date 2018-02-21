@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CalApproxPosition	package_used/cal_func/calculate.py	/^def CalApproxPosition(mouse_pos, pos_list):$/;"	f
+CalPrintCirclePt	package_used/cal_func/calculate.py	/^def CalPrintCirclePt(mouse_x, mouse_y, x_list, y_list):$/;"	f
+CalPrintXPt	package_used/cal_func/calculate.py	/^def CalPrintXPt(mouse_x, mouse_y, x_list, y_list):$/;"	f
+CheckOXYSetPosExist	package_used/tictactoe.py	/^    def CheckOXYSetPosExist(self, x_pos, y_pos):$/;"	m	class:TicTacToe
+CheckXXYSetPosExist	package_used/tictactoe.py	/^    def CheckXXYSetPosExist(self, x_pos, y_pos):$/;"	m	class:TicTacToe
+DeleteXYList	package_used/tictactoe.py	/^    def DeleteXYList(self):$/;"	m	class:TicTacToe
+GetBoardColNum	package_used/tictactoe.py	/^    def GetBoardColNum(self):$/;"	m	class:TicTacToe
+GetBoardRowNum	package_used/tictactoe.py	/^    def GetBoardRowNum(self):$/;"	m	class:TicTacToe
+GetCanvas	package_used/tictactoe.py	/^    def GetCanvas(self):$/;"	m	class:TicTacToe
+GetFrameHeight	package_used/tictactoe.py	/^    def GetFrameHeight(self):$/;"	m	class:TicTacToe
+GetFrameWidth	package_used/tictactoe.py	/^    def GetFrameWidth(self):$/;"	m	class:TicTacToe
+GetOXYSetPos	package_used/tictactoe.py	/^    def GetOXYSetPos(self):$/;"	m	class:TicTacToe
+GetXList	package_used/tictactoe.py	/^    def GetXList(self):$/;"	m	class:TicTacToe
+GetXXYSetPos	package_used/tictactoe.py	/^    def GetXXYSetPos(self):$/;"	m	class:TicTacToe
+GetYList	package_used/tictactoe.py	/^    def GetYList(self):$/;"	m	class:TicTacToe
+init	package_used/setting.py	/^def init():$/;"	f
+LeftMouseCallBack	package_used/mouse_func/mouse.py	/^def LeftMouseCallBack(event):$/;"	f
+main	main.py	/^def main():$/;"	f
+MiddleMouseCallBack	package_used/mouse_func/mouse.py	/^def MiddleMouseCallBack(event):$/;"	f
+PrintBoard	package_used/print_func/print_board.py	/^def PrintBoard(tkinter_canvas, width = 255, height = 255, row_num = 3, col_num = 3):$/;"	f
+PrintBoard	package_used/tictactoe.py	/^    def PrintBoard(self):$/;"	m	class:TicTacToe
+PrintCircle	package_used/print_func/print_circle.py	/^def PrintCircle(tkinter_canvas, coord):$/;"	f
+PrintSettingList	package_used/mouse_func/mouse.py	/^def PrintSettingList(input_list, list_name):$/;"	f
+PrintX	package_used/print_func/print_x.py	/^def PrintX(tkinter_canvas, lx0, ly0, lx1, ly1, rx0, ry0, rx1, ry1):$/;"	f
+RightMouseCallBack	package_used/mouse_func/mouse.py	/^def RightMouseCallBack(event):$/;"	f
+SaveOXYSetPos	package_used/tictactoe.py	/^    def SaveOXYSetPos(self, x_pos, y_pos):$/;"	m	class:TicTacToe
+SaveXXYSetPos	package_used/tictactoe.py	/^    def SaveXXYSetPos(self, x_pos, y_pos):$/;"	m	class:TicTacToe
+TicTacToe	package_used/tictactoe.py	/^class TicTacToe:$/;"	c
+WinDetermination	package_used/tictactoe.py	/^    def WinDetermination(self, win_conn_num):$/;"	m	class:TicTacToe
+__init__	package_used/tictactoe.py	/^    def __init__(self, window_canvas, frame_height, frame_width, board_row_num, board_col_num):$/;"	m	class:TicTacToe
